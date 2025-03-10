@@ -31,9 +31,7 @@ This project is a clone of the Amazon website, built using HTML and CSS.
 - CSS
 - Font Awesome (for icons)
 
-## Screenshots
 
 
-## License
 
-This project is licensed under the MIT License.
+
