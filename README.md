@@ -33,14 +33,6 @@ This project is a clone of the Amazon website, built using HTML and CSS.
 
 ## Screenshots
 
-### Navbar
-![Navbar](images/Amazonlogo1.jpg)
-
-### Hero Section
-![Hero Section](images/hero_section.jpg)
-
-### Shop Section
-![Shop Section](images/product_1.jpg)
 
 ## License
 
